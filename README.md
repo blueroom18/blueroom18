@@ -33,14 +33,20 @@ A passionate developer focused on systems programming, computer architecture, an
 
 ## 🔬 Projects
 
-### [Compiler-level Optimization for CloverLeaf](https://github.com/blueroom18)
-Performance tuning for hydrodynamics simulation code through compiler optimizations.
+### [SUSTech_projects](https://github.com/blueroom18/SUSTech_projects)
+Collection of projects from Southern University of Science and Technology.
 
-### [RISC-V Projects](https://github.com/blueroom18)
-CPU core design and implementation based on RISC-V architecture.
+### [Slicer4LLM](https://github.com/blueroom18/Slicer4LLM)
+LLM-based code slicing and analysis tool.
 
-### [FPGA & OS Development](https://github.com/blueroom18)
-Hardware-software co-design projects exploring operating system development.
+### [CS323-Compilers-2025F-Projects](https://github.com/blueroom18/CS323-Compilers-2025F-Projects)
+Compiler design and implementation projects from CS323 course.
+
+### [CS302-ProcFS-OS-Project](https://github.com/blueroom18/CS302-ProcFS-OS-Project)
+Linux ProcFS implementation for operating systems course.
+
+### [CS311-Project-CARP](https://github.com/blueroom18/CS311-Project-CARP)
+CARP project from CS311 computer architecture course.
 
 ---
 
@@ -59,9 +65,7 @@ Hardware-software co-design projects exploring operating system development.
 
 ## 📫 Connect
 
-- 📧 Email: [Your Email]
-- 🌐 Website: [Your Website]
-- 💬 Feel free to reach out for collaborations!
+- 📧 Email: noopy2006@qq.com | 12310814@mail.sustech.edu.cn
 
 ---
 
