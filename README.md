@@ -4,16 +4,18 @@
 
 **To travel, to trailblaze** 🚀
 
-A passionate developer focused on LLM and related sofware engineerings.
+A passionate developer focused on systems programming, computer architecture, and high-performance computing.
 
 ---
 
 ## 🎓 About Me
 
 - 📍 Based at **Southern University of Science and Technology**, Shenzhen, China
-- 🔭 Working on **software engineering** and **LLM-based APR** currently
-- 🛠️ Interested in **Agent**, **Workflow**, and **OS Development**
+- 🎓 Junior year undergraduate student
+- 🔭 Working on **Compiler-level Optimization & Performance Tuning**
+- 🛠️ Interested in **RISC-V**, **FPGA**, and **OS Development**
 - 💻 Passionate about low-level systems and performance optimization
+- 🎮 Hobby: **Hearts of Iron 4 Modding** & **Science Fiction Writing/Composing**
 
 ---
 
