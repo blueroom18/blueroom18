@@ -1,5 +1,7 @@
 # 👋 Hi, I'm blueroom18
 
+**Zihan Zhou (Jaden)**
+
 **To travel, to trailblaze** 🚀
 
 A passionate developer focused on systems programming, computer architecture, and high-performance computing.
