@@ -12,8 +12,8 @@ A passionate developer focused on systems programming, computer architecture, an
 
 - 📍 Based at **Southern University of Science and Technology**, Shenzhen, China
 - 🎓 Junior year undergraduate student
-- 🔭 Working on **Compiler-level Optimization & Performance Tuning**
-- 🛠️ Interested in **RISC-V**, **FPGA**, and **OS Development**
+- 🔭 Working on **Large Language Model** and **Automatic Program Repair**
+- 🛠️ Interested in **Software Engineering** and **Agent**
 - 💻 Passionate about low-level systems and performance optimization
 - 🎮 Hobby: **Hearts of Iron 4 Modding** & **Science Fiction Writing/Composing**
 
@@ -28,8 +28,8 @@ A passionate developer focused on systems programming, computer architecture, an
 ![Verilog/SystemVerilog](https://img.shields.io/badge/Verilog-2386D2?style=flat-square&logo=verilog&logoColor=white)
 
 ### Technologies
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=risc-v&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-000000?style=flat-square&logo=xilinx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
