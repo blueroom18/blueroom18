@@ -14,7 +14,6 @@ A passionate developer focused on systems programming, computer architecture, an
 - 🎓 Junior year undergraduate student
 - 🔭 Working on **Large Language Model** and **Automatic Program Repair**
 - 🛠️ Interested in **Software Engineering** and **Agent**
-- 💻 Passionate about low-level systems and performance optimization
 - 🎮 Hobby: **Hearts of Iron 4 Modding** & **Science Fiction Writing/Composing**
 
 ---
