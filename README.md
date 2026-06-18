@@ -36,20 +36,20 @@ A passionate developer focused on systems programming, computer architecture, an
 
 ## 🔬 Projects
 
-### [SUSTech_projects](https://github.com/blueroom18/SUSTech_projects)
+### [SUSTech_projects](https://github.com/blueroom18/SUStech_Projects)
 Collection of projects from Southern University of Science and Technology.
 
 ### [Slicer4LLM](https://github.com/blueroom18/Slicer4LLM)
 LLM-based code slicing and analysis tool.
 
+### [MPCEF4LLM](https://github.com/blueroom18/MPCEF4LLM)
+Multi-Perspective Crash Evidence Fusion for LLM-Driven Semantic Root Cause Analysis of C/C++ Vulnerabilities.
+
 ### [CS323-Compilers-2025F-Projects](https://github.com/blueroom18/CS323-Compilers-2025F-Projects)
 Compiler design and implementation projects from CS323 course.
 
-### [CS302-ProcFS-OS-Project](https://github.com/blueroom18/CS302-ProcFS-OS-Project)
-Linux ProcFS implementation for operating systems course.
-
-### [CS311-Project-CARP](https://github.com/blueroom18/CS311-Project-CARP)
-CARP project from CS311 computer architecture course.
+### [ItsMapPin](https://github.com/sustech-cs304/team-project-26spring-26s-7)
+A HarmonyOS-based travel memory app with map markers, route management, and AI copywriting.
 
 ---
 
